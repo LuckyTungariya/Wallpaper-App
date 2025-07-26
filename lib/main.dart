@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:toast/toast.dart';
-import 'package:wallpaperapp/fullscreen.dart';
 import 'package:wallpaperapp/splashscreen.dart';
-import 'package:wallpaperapp/wallpaper.dart';
 
 void main(){
   runApp(const MyApp());
